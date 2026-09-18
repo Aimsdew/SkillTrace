@@ -1,0 +1,14 @@
+SKILLTRACE GITHUB UPLOAD
+
+Upload the CONTENTS of this folder to:
+https://github.com/Aimsdew/SkillTrace
+
+Do not create another SkillTrace folder inside the repository.
+
+After uploading and committing:
+1. Open GitHub -> Settings -> Pages.
+2. Set Source to GitHub Actions.
+3. Open Actions and wait for "Deploy SkillTrace to GitHub Pages" to finish.
+4. Site: https://aimsdew.github.io/SkillTrace/
+
+The original source files are preserved. GitHub Actions builds the project automatically.
